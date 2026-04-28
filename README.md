@@ -1,5 +1,114 @@
 ## Hi there 👋
 
+<h2>im Arsyah05 as known to as Aysel!</h2>
+<p>
+  Im a student that have interest about coding or cool stuff like that ✨
+  <br>
+  Here's my educational background:
+</p>
+
+<ul>
+  <li>
+  <b>Curently, </b>i'm a Software Engineering student at <a href="https://www.polibatam.ac.id/en/home/"><b>State Polytechnic of Batam</b></a> at Batam
+  </li>
+
+  <li>
+  <b>Previously,</b> i'm a <a href="https://www.sman1-tpi.sch.id/"><b>State Senior High School 1 Tanjungpinang</b></a> student at Tanjungpinang
+  </li>
+</ul>
+
+<p>
+  And also here's my social media for other info about me:
+</p>
+
+<ul>
+  <li>
+    <a href="https://www.instagram.com/mnl.gallery">
+      <b>Instagram</b>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.linkedin.com/in/aysel-putra-ardiansyah-0508993a6">
+    <b>Linkedin</b>
+    </a>
+  </li>
+</ul>
+
+</br>
+
+<h3>💻 I'm Currently Working On</h3>
+<b>State Polytechnic of Batam</b>
+<ul>
+  <li>
+  <a href="https://github.com/arifhrianTO/pbo-pbl-trpl213.git">
+  <b>Course Online (Clearn)</b>
+  </a>
+  </li>
+  
+  <li>
+  <a href="https://github.com/Prodi-TRPL/1B-Pagi-2025-Keuangan-Digital-Web.git"><b>Keuangan Digital Web (KasWarga)</b> 
+  </a>
+  </li>
+</ul>
+
+</br>
+
+<h3>📖 I'm Currently Learning On</h3>
+<ul>
+  <li>
+  Faster Web Development Using Laravel Framework
+  </li>
+
+  <li>
+  Integration Web With PHP
+  </li>
+
+  <li>
+  Interaction Web Logic With Javbascript
+  </li>
+
+  <li>
+  Web Design With CSS
+  </li>
+
+  <li>
+  HTML Basic Web Structur
+  </li>
+
+  <li>
+  Database Management With MySQL
+  </li>
+
+  <li>
+  Web Design Development
+  </li>
+</ul>
+
+</br>
+
+<h3>🛠️ What Can I Do?</h3>
+<ul>
+  <li>
+  Web Design Development
+  </li>
+
+  <li>
+  Database Management With Mysql
+  </li>
+
+  <li>
+  Game Develompent With Luau
+  </li>
+
+  <li>
+  C++ Basic Develompent
+  </li>
+
+  <li>
+  Basic 3D Design Modelling
+  </li>
+</ul>
 <!--
 **Arsyah05/Arsyah05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +122,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
